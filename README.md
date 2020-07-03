@@ -1,8 +1,8 @@
 # DoorLockSystem
-An Arduino-based door lock system created in Embedded C
+An Arduino-based door lock system created in Embedded C.
 
 
- Some snapshots of the working project
+ Some snapshots of the working project:
  
  ### State: *Enter Password*
  ![Enter Password](https://github.com/Divya0319/DoorLockSystem/blob/master/snapshots/enter-password.jpg)
